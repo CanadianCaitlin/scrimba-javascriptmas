@@ -1,3 +1,5 @@
+// Completed solution here: https://scrimba.com/scrim/coafe4770b5e73d3c585e8316
+
 // Prompt:
 
 // Write a function that splits an array (first argument) into groups the length of size (second argument)

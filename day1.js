@@ -1,3 +1,5 @@
+// Completed solution here: https://scrimba.com/scrim/co5634061bed9225ab93bfdea
+
 // Prompt:
 
 // n children have m pieces of candy. They want to eat as much candy as they can,

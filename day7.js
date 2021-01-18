@@ -1,3 +1,5 @@
+// Completed solution here: https://scrimba.com/scrim/coff540b6b4f3e11643ff942a
+
 // Prompt:
 
 // You are given a string s that consists of only lowercase English letters.

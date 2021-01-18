@@ -1,3 +1,5 @@
+// Completed solution here: https://scrimba.com/scrim/co63443939a7fb68c5652730f
+
 // Prompt:
 
 // Reverse the provided string. You may need to convert the string into an array before you are reverse.

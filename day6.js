@@ -1,3 +1,5 @@
+// Completed solution here: https://scrimba.com/scrim/coa0c4b1bb726434622137055
+
 // Prompt:
 
 // Given an array of strings, sort them in order of increasing lengths. If two strings have the same length,

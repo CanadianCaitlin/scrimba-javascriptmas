@@ -1,3 +1,5 @@
+// Completed solution here: https://scrimba.com/scrim/co0734da08ab1ce8db6b9ad94
+
 // Prompt:
 
 // You have deposited a specific amount of dollar into your bank account. Each year, your balance
