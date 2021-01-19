@@ -1,3 +1,5 @@
+// Completed solution here: https://scrimba.com/scrim/co4de4dafa0ee5c60f6722f1a
+
 // Prompt:
 
 // Check if the given string is a correct time representation of the 24-hour clock.
