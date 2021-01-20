@@ -1,4 +1,4 @@
-// Completed solution here:
+// Completed solution here: https://scrimba.com/scrim/co13442c7887b9b5b951b09f0
 
 // Prompt: 
 
