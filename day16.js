@@ -1,4 +1,4 @@
-// Completed solution here: 
+// Completed solution here: https://scrimba.com/scrim/co09d4460923b58f89d912532
 
 // Prompt:
 // Transform a given sentence into a new one with dashes between each two consecutive
