@@ -41,3 +41,5 @@ Day 14: https://scrimba.com/scrim/cob79493eb6c485199f3d1270
 Day 15: To be completed.
 
 Day 16: https://scrimba.com/scrim/co09d4460923b58f89d912532
+
+Day 17: https://scrimba.com/scrim/co51f4137b4439df7b9994b3a
