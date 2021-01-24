@@ -47,3 +47,5 @@ Day 17: https://scrimba.com/scrim/co51f4137b4439df7b9994b3a
 Day 18: To be completed.
 
 Day 19: https://scrimba.com/scrim/coacd4bba9ccdc2fd079dc811
+
+Day 20: https://scrimba.com/scrim/co2144b8c9af1c326982277fa
